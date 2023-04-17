@@ -1,0 +1,1 @@
+# Repozitář do předmětu VVP, sloužící k odevzdávání domácích úkolů
